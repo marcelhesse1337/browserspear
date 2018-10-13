@@ -20,7 +20,7 @@
     "sqlite3": "^4.0.2"
   },
   "scripts": {
-    "start": "node browserspear.js",
+    "start": "node browserspear.js"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
